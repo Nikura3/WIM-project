@@ -10,34 +10,34 @@
 \contentsline {subsubsection}{\numberline {2.1.3}WHY should the user stay?}{4}{subsubsection.2.1.3}%
 \contentsline {subsubsection}{\numberline {2.1.4}WHAT choices does the user have?}{4}{subsubsection.2.1.4}%
 \contentsline {subsubsection}{\numberline {2.1.5}WHEN (latest news)}{5}{subsubsection.2.1.5}%
-\contentsline {subsubsection}{\numberline {2.1.6}HOW to arrive where the user wants?}{5}{subsubsection.2.1.6}%
-\contentsline {subsection}{\numberline {2.2}Asking for Personal Data}{5}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Scrolling and Resolution}{5}{subsection.2.3}%
-\contentsline {subsubsection}{\numberline {2.3.1}Scrolling}{5}{subsubsection.2.3.1}%
-\contentsline {paragraph}{\numberline {2.3.1.1}Vertical Scroll}{5}{paragraph.2.3.1.1}%
-\contentsline {paragraph}{\numberline {2.3.1.2}Horizontal Scroll}{5}{paragraph.2.3.1.2}%
-\contentsline {subsubsection}{\numberline {2.3.2}Resolution}{5}{subsubsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.4}Menu}{6}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}Content}{6}{subsection.2.5}%
-\contentsline {subsubsection}{\numberline {2.5.1}Text}{6}{subsubsection.2.5.1}%
-\contentsline {paragraph}{\numberline {2.5.1.1}Resizing Options}{6}{paragraph.2.5.1.1}%
-\contentsline {paragraph}{\numberline {2.5.1.2}Color and Font}{6}{paragraph.2.5.1.2}%
-\contentsline {paragraph}{\numberline {2.5.1.3}Style}{6}{paragraph.2.5.1.3}%
-\contentsline {paragraph}{\numberline {2.5.1.4}Graphical Objects}{6}{paragraph.2.5.1.4}%
-\contentsline {subsubsection}{\numberline {2.5.2}Content Structure}{7}{subsubsection.2.5.2}%
-\contentsline {paragraph}{\numberline {2.5.2.1}Structure}{7}{paragraph.2.5.2.1}%
-\contentsline {paragraph}{\numberline {2.5.2.2}Keywords}{7}{paragraph.2.5.2.2}%
-\contentsline {paragraph}{\numberline {2.5.2.3}Lists}{7}{paragraph.2.5.2.3}%
-\contentsline {paragraph}{\numberline {2.5.2.4}Column}{7}{paragraph.2.5.2.4}%
-\contentsline {subsection}{\numberline {2.6}Attention Map}{7}{subsection.2.6}%
-\contentsline {subsubsection}{\numberline {2.6.1}F-shape Map}{7}{subsubsection.2.6.1}%
-\contentsline {subsubsection}{\numberline {2.6.2}Images}{7}{subsubsection.2.6.2}%
-\contentsline {subsection}{\numberline {2.7}Searching}{7}{subsection.2.7}%
-\contentsline {subsubsection}{\numberline {2.7.1}Search Tools}{7}{subsubsection.2.7.1}%
-\contentsline {subparagraph}{\numberline {2.7.1.0.1}No Result}{7}{figure.caption.4}%
-\contentsline {subparagraph}{\numberline {2.7.1.0.2}404 Page}{8}{figure.caption.5}%
-\contentsline {paragraph}{\numberline {2.7.1.1}Search Result Presentation}{9}{paragraph.2.7.1.1}%
-\contentsline {subsubsection}{\numberline {2.7.2}Search Box}{9}{subsubsection.2.7.2}%
-\contentsline {section}{\numberline {3}Product Page}{10}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Informative Axes}{10}{subsection.3.1}%
-\contentsline {section}{\numberline {4}Final evaluation}{11}{section.4}%
+\contentsline {subsubsection}{\numberline {2.1.6}HOW to arrive where the user wants?}{6}{subsubsection.2.1.6}%
+\contentsline {subsection}{\numberline {2.2}Asking for Personal Data}{6}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Scrolling and Resolution}{7}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Scrolling}{7}{subsubsection.2.3.1}%
+\contentsline {paragraph}{\numberline {2.3.1.1}Vertical Scroll}{7}{paragraph.2.3.1.1}%
+\contentsline {paragraph}{\numberline {2.3.1.2}Horizontal Scroll}{7}{paragraph.2.3.1.2}%
+\contentsline {subsubsection}{\numberline {2.3.2}Resolution}{7}{subsubsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.4}Menu}{7}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Content}{8}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Text}{8}{subsubsection.2.5.1}%
+\contentsline {paragraph}{\numberline {2.5.1.1}Resizing Options}{8}{paragraph.2.5.1.1}%
+\contentsline {paragraph}{\numberline {2.5.1.2}Color and Font}{8}{paragraph.2.5.1.2}%
+\contentsline {paragraph}{\numberline {2.5.1.3}Style}{8}{paragraph.2.5.1.3}%
+\contentsline {paragraph}{\numberline {2.5.1.4}Graphical Objects}{8}{paragraph.2.5.1.4}%
+\contentsline {subsubsection}{\numberline {2.5.2}Content Structure}{8}{subsubsection.2.5.2}%
+\contentsline {paragraph}{\numberline {2.5.2.1}Structure}{8}{paragraph.2.5.2.1}%
+\contentsline {paragraph}{\numberline {2.5.2.2}Keywords}{9}{paragraph.2.5.2.2}%
+\contentsline {paragraph}{\numberline {2.5.2.3}Lists}{9}{paragraph.2.5.2.3}%
+\contentsline {paragraph}{\numberline {2.5.2.4}Column}{9}{paragraph.2.5.2.4}%
+\contentsline {subsection}{\numberline {2.6}Attention Map}{9}{subsection.2.6}%
+\contentsline {subsubsection}{\numberline {2.6.1}F-shape Map}{9}{subsubsection.2.6.1}%
+\contentsline {subsubsection}{\numberline {2.6.2}Images}{9}{subsubsection.2.6.2}%
+\contentsline {subsection}{\numberline {2.7}Searching}{9}{subsection.2.7}%
+\contentsline {subsubsection}{\numberline {2.7.1}Search Tools}{9}{subsubsection.2.7.1}%
+\contentsline {subparagraph}{\numberline {2.7.1.0.1}No Result}{9}{figure.caption.7}%
+\contentsline {subparagraph}{\numberline {2.7.1.0.2}404 Page}{9}{figure.caption.8}%
+\contentsline {paragraph}{\numberline {2.7.1.1}Search Result Presentation}{10}{paragraph.2.7.1.1}%
+\contentsline {subsubsection}{\numberline {2.7.2}Search Box}{11}{subsubsection.2.7.2}%
+\contentsline {section}{\numberline {3}Product Page}{12}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Informative Axes}{12}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Final evaluation}{13}{section.4}%
