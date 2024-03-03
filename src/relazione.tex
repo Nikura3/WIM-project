@@ -1,0 +1,31 @@
+%generare il pdf con il comando: pdflatex main.tex
+\documentclass[10pt, a4paper, oneside, openany, dvipsnames, table]{article}
+\usepackage{template/sos}
+\usepackage{subcaption}
+\usepackage{tocloft}
+\usepackage{cleveref}
+\input{comandi.tex}
+\setlength\cftparskip{5pt}
+\setlength\cftbeforefigskip{0.2cm}
+
+\begin{document}
+\copertina{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%SOMMARIO 
+\newpage
+\renewcommand{\contentsname}{Index}
+\renewcommand{\figurename}{Figure}
+\tableofcontents
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%PARAGRAFI
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{intro.tex}
+\pagebreak
+\input{homepage.tex}
+\pagebreak
+\input{product.tex}
+\pagebreak
+\input{valutazione.tex}
+
+\end{document}
