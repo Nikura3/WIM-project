@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.5)  3 MAR 2024 20:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.5)  6 APR 2024 17:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -947,7 +947,7 @@ LaTeX Info: Redefining \nameref on input line 11.
 \@outlinefile=\write5
 \openout5 = `relazione.out'.
 
-<template/img/logo.png, id=171, 943.525pt x 949.5475pt>
+<template/img/logo.png, id=163, 943.525pt x 949.5475pt>
 File: template/img/logo.png Graphic file (type png)
 <use template/img/logo.png>
 Package pdftex.def Info: template/img/logo.png  used on input line 12.
@@ -1022,7 +1022,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.59499pt}.
 
 [2] (./homepage.tex
-<images/homepage-first.png, id=238, 1926.19624pt x 946.53625pt>
+<images/homepage-first.png, id=228, 1926.19624pt x 946.53625pt>
 File: images/homepage-first.png Graphic file (type png)
 <use images/homepage-first.png>
 Package pdftex.def Info: images/homepage-first.png  used on input line 11.
@@ -1053,7 +1053,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
 
-<images/footer.png, id=248, 1911.14pt x 308.15125pt>
+<images/footer.png, id=238, 1911.14pt x 308.15125pt>
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
 Package pdftex.def Info: images/footer.png  used on input line 44.
@@ -1068,7 +1068,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--52
 
  []
 
-<images/slogan.png, id=250, 1716.4125pt x 383.4325pt>
+<images/slogan.png, id=240, 1716.4125pt x 383.4325pt>
 File: images/slogan.png Graphic file (type png)
 <use images/slogan.png>
 Package pdftex.def Info: images/slogan.png  used on input line 62.
@@ -1100,12 +1100,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
 LaTeX Warning: Reference `fig:blog-pamplig' on page 1 undefined on input line 80.
 
-<images/blog-pampling.png, id=261, 1721.43124pt x 970.62625pt>
+<images/blog-pampling.png, id=251, 1721.43124pt x 970.62625pt>
 File: images/blog-pampling.png Graphic file (type png)
 <use images/blog-pampling.png>
 Package pdftex.def Info: images/blog-pampling.png  used on input line 85.
 (pdftex.def)             Requested size: 387.33159pt x 218.39629pt.
-<images/blog-users.png, id=262, 1719.42375pt x 971.63pt>
+<images/blog-users.png, id=252, 1719.42375pt x 971.63pt>
 File: images/blog-users.png Graphic file (type png)
 <use images/blog-users.png>
 Package pdftex.def Info: images/blog-users.png  used on input line 92.
@@ -1153,7 +1153,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 LaTeX Warning: Reference `fig:menu' on page 1 undefined on input line 138.
 
-<images/menu.png, id=280, 1718.42pt x 444.66125pt>
+<images/menu.png, id=270, 1718.42pt x 444.66125pt>
 File: images/menu.png Graphic file (type png)
 <use images/menu.png>
 Package pdftex.def Info: images/menu.png  used on input line 144.
@@ -1170,20 +1170,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.59499pt}.
 
 [7 <./images/menu.png>]
+<images/content.png, id=278, 1911.14pt x 946.53625pt>
+File: images/content.png Graphic file (type png)
+<use images/content.png>
+Package pdftex.def Info: images/content.png  used on input line 162.
+(pdftex.def)             Requested size: 430.0171pt x 212.9759pt.
 
-LaTeX Warning: Reference `fig:content' on page 1 undefined on input line 156.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
-
+Overfull \hbox (11.76343pt too wide) in paragraph at lines 162--163
+ [][] 
  []
 
 
-LaTeX Warning: Reference `fig:menu' on page 1 undefined on input line 166.
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+
+ []
 
 File: template/img/logo.png Graphic file (type png)
 <use template/img/logo.png>
-Package pdftex.def Info: template/img/logo.png  used on input line 188.
+Package pdftex.def Info: template/img/logo.png  used on input line 186.
 (pdftex.def)             Requested size: 18.87448pt x 18.99495pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1192,44 +1196,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-10.59499pt}.
 
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 198--199
+[8 <./images/content.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 198--203
 
  []
-
-<images/zero-res.png, id=292, 1924.18875pt x 944.52875pt>
-File: images/zero-res.png Graphic file (type png)
-<use images/zero-res.png>
-Package pdftex.def Info: images/zero-res.png  used on input line 213.
-(pdftex.def)             Requested size: 432.95316pt x 212.5242pt.
-
-Overfull \hbox (14.69948pt too wide) in paragraph at lines 213--214
- [][] 
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 218.
-
-<images/404.png, id=294, 1912.14375pt x 947.54pt>
-File: images/404.png Graphic file (type png)
-<use images/404.png>
-Package pdftex.def Info: images/404.png  used on input line 225.
-(pdftex.def)             Requested size: 430.24297pt x 213.20175pt.
-
-Overfull \hbox (11.98929pt too wide) in paragraph at lines 225--226
- [][] 
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 File: template/img/logo.png Graphic file (type png)
 <use template/img/logo.png>
-Package pdftex.def Info: template/img/logo.png  used on input line 236.
+Package pdftex.def Info: template/img/logo.png  used on input line 231.
 (pdftex.def)             Requested size: 18.87448pt x 18.99495pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1239,13 +1213,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.59499pt}.
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 242--243
+<images/zero-res.png, id=293, 1924.18875pt x 944.52875pt>
+File: images/zero-res.png Graphic file (type png)
+<use images/zero-res.png>
+Package pdftex.def Info: images/zero-res.png  used on input line 252.
+(pdftex.def)             Requested size: 432.95316pt x 212.5242pt.
 
+Overfull \hbox (14.69948pt too wide) in paragraph at lines 252--253
+ [][] 
  []
 
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 257.
+
+<images/wrong-search.png, id=295, 1850.915pt x 929.4725pt>
+File: images/wrong-search.png Graphic file (type png)
+<use images/wrong-search.png>
+Package pdftex.def Info: images/wrong-search.png  used on input line 265.
+(pdftex.def)             Requested size: 416.46616pt x 209.13647pt.
 File: template/img/logo.png Graphic file (type png)
 <use template/img/logo.png>
-Package pdftex.def Info: template/img/logo.png  used on input line 243.
+Package pdftex.def Info: template/img/logo.png  used on input line 269.
 (pdftex.def)             Requested size: 18.87448pt x 18.99495pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1254,7 +1243,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-10.59499pt}.
 
-[10 <./images/zero-res.png> <./images/404.png>]) (./product.tex
+[10 <./images/zero-res.png>]
+<images/404.png, id=304, 1912.14375pt x 947.54pt>
+File: images/404.png Graphic file (type png)
+<use images/404.png>
+Package pdftex.def Info: images/404.png  used on input line 281.
+(pdftex.def)             Requested size: 430.24297pt x 213.20175pt.
+
+Overfull \hbox (11.98929pt too wide) in paragraph at lines 281--282
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (./product.tex
 File: template/img/logo.png Graphic file (type png)
 <use template/img/logo.png>
 Package pdftex.def Info: template/img/logo.png  used on input line 1.
@@ -1267,7 +1270,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-10.59499pt}.
 
-[11])
+[11 <./images/wrong-search.png>])
 File: template/img/logo.png Graphic file (type png)
 <use template/img/logo.png>
 Package pdftex.def Info: template/img/logo.png  used on input line 29.
@@ -1280,7 +1283,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-10.59499pt}.
 
-[12] (./valutazione.tex) 
+[12 <./images/404.png>] (./valutazione.tex) 
 AED: lastpage setting LastPage
 File: template/img/logo.png Graphic file (type png)
 <use template/img/logo.png>
@@ -1306,21 +1309,21 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `relazione.out' has not changed.
-(rerunfilecheck)             Checksum: 8CE7FBE29B42A08D11ACB3B6EAFD3794;5726.
+(rerunfilecheck)             Checksum: 8539410D5CFCDA564F2B7B7E49AAFBF6;5409.
  ) 
 Here is how much of TeX's memory you used:
- 31425 strings out of 478268
- 601602 string characters out of 5846348
- 1063092 words of memory out of 5000000
- 48995 multiletter control sequences out of 15000+600000
+ 31439 strings out of 478268
+ 601935 string characters out of 5846348
+ 1062092 words of memory out of 5000000
+ 49007 multiletter control sequences out of 15000+600000
  507051 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  123i,17n,136p,629b,517s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on relazione.pdf (14 pages, 7347925 bytes).
+Output written on relazione.pdf (14 pages, 8292216 bytes).
 PDF statistics:
- 370 PDF objects out of 1000 (max. 8388607)
- 321 compressed objects within 4 object streams
+ 369 PDF objects out of 1000 (max. 8388607)
+ 316 compressed objects within 4 object streams
  63 named destinations out of 1000 (max. 500000)
- 386 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 380 words of extra memory for PDF output out of 10000 (max. 10000000)
 
