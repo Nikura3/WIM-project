@@ -11,13 +11,13 @@
 \contentsline {subsubsection}{\numberline {2.1.4}WHAT choices does the user have?}{5}{subsubsection.2.1.4}%
 \contentsline {subsubsection}{\numberline {2.1.5}WHEN (latest news)}{6}{subsubsection.2.1.5}%
 \contentsline {subsubsection}{\numberline {2.1.6}HOW to arrive where the user wants?}{7}{subsubsection.2.1.6}%
-\contentsline {subsection}{\numberline {2.2}Asking for Personal Data}{7}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.2}First access and personal data}{7}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Scrolling and Resolution}{8}{subsection.2.3}%
 \contentsline {subsubsection}{\numberline {2.3.1}Scrolling}{8}{subsubsection.2.3.1}%
 \contentsline {paragraph}{\numberline {2.3.1.1}Vertical Scroll}{8}{paragraph.2.3.1.1}%
 \contentsline {paragraph}{\numberline {2.3.1.2}Horizontal Scroll}{8}{paragraph.2.3.1.2}%
 \contentsline {subsubsection}{\numberline {2.3.2}Resolution}{8}{subsubsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.4}Menu}{8}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.4}Menu}{9}{subsection.2.4}%
 \contentsline {subsection}{\numberline {2.5}Content}{9}{subsection.2.5}%
 \contentsline {subsubsection}{\numberline {2.5.1}Text}{9}{subsubsection.2.5.1}%
 \contentsline {paragraph}{\numberline {2.5.1.1}Resizing Options}{9}{paragraph.2.5.1.1}%
@@ -28,14 +28,14 @@
 \contentsline {paragraph}{\numberline {2.5.2.1}Structure}{10}{paragraph.2.5.2.1}%
 \contentsline {paragraph}{\numberline {2.5.2.2}Keywords}{10}{paragraph.2.5.2.2}%
 \contentsline {paragraph}{\numberline {2.5.2.3}Lists}{10}{paragraph.2.5.2.3}%
-\contentsline {subsection}{\numberline {2.6}Attention Map}{10}{subsection.2.6}%
-\contentsline {subsubsection}{\numberline {2.6.1}F-shape Map}{10}{subsubsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6}Attention Map}{11}{subsection.2.6}%
+\contentsline {subsubsection}{\numberline {2.6.1}F-shape Map}{11}{subsubsection.2.6.1}%
 \contentsline {subsubsection}{\numberline {2.6.2}Images}{11}{subsubsection.2.6.2}%
 \contentsline {subsection}{\numberline {2.7}Searching}{11}{subsection.2.7}%
 \contentsline {subsubsection}{\numberline {2.7.1}Search Tools}{11}{subsubsection.2.7.1}%
-\contentsline {subparagraph}{\numberline {2.7.1.0.1}No Result}{11}{figure.caption.9}%
-\contentsline {subsubsection}{\numberline {2.7.2}Search Box}{12}{subsubsection.2.7.2}%
-\contentsline {subsection}{\numberline {2.8}404 Page}{12}{subsection.2.8}%
+\contentsline {subparagraph}{\numberline {2.7.1.0.1}No Result}{11}{figure.caption.10}%
+\contentsline {subsubsection}{\numberline {2.7.2}Search Box}{13}{subsubsection.2.7.2}%
+\contentsline {subsection}{\numberline {2.8}404 Page}{13}{subsection.2.8}%
 \contentsline {section}{\numberline {3}Product Page}{14}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Informative Axes}{14}{subsection.3.1}%
 \contentsline {subsubsection}{\numberline {3.1.1}WHERE did the user arrive?}{14}{subsubsection.3.1.1}%
