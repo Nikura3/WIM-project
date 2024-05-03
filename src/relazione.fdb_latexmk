@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1714209382 "/Users/nikura/Documents/unipd/WIM/WIM-project/src/relazione.tex" "relazione.pdf" "relazione" 1714209387
+["pdflatex"] 1714750005 "/Users/nikura/Documents/unipd/WIM/WIM-project/src/relazione.tex" "relazione.pdf" "relazione" 1714750010
   "/Users/nikura/Documents/unipd/WIM/WIM-project/src/relazione.tex" 1713720869 926 da8476a2713263b88dbb7153f9e00c73 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc" 1202520719 2327 9d6df24f9c4f7368395224341a95523a ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc" 1254269338 2359 de53213020575850c8f8debc35095765 ""
@@ -216,7 +216,7 @@
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1659692512 2826434 6284145248076742d463efc1e41ef9e3 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
   "comandi.tex" 1709380545 456 2484f82ab4acda30cb781c7b72c95b5e ""
-  "homepage.tex" 1714209189 17964 85fa61346a58c1592eb1ccfe5450aa8e ""
+  "homepage.tex" 1714749504 18050 3982e071ce9be6a64a10978b45b7f5e5 ""
   "images/404.png" 1709483843 324935 4fc3570b15cc880a3925d122b3a2b43d ""
   "images/blog-pampling.png" 1709488105 3694252 e36647dd2a12e62da99e5dd863a2898e ""
   "images/blog-users.png" 1709488161 1160656 a71ad262863b65a709e33a94c9bdcba9 ""
@@ -227,6 +227,7 @@
   "images/first-visit.png" 1709488595 3691760 daf6cb6a1c76306045c951726cf3a39f ""
   "images/footer.png" 1709465738 49892 b077f6f9e8b4605a0b0bdf95182c93f0 ""
   "images/homepage-first.png" 1709462830 1827664 c6ff5de731f3c127e8e29b04ad0cec27 ""
+  "images/lists.png" 1714749272 165685 7d729f23a3447d0738682588175e69bf ""
   "images/menu.png" 1709491485 151869 879ec7cb8ae14c4dfc111b545e0d9e12 ""
   "images/product-page.png" 1713161832 2811714 cca8f0ac0fa604cd16263f58f2116cac ""
   "images/slogan.png" 1709467826 183075 01a977bbc6e19008298cfbfb48e4aff9 ""
@@ -234,13 +235,13 @@
   "images/zero-res.png" 1709484180 388383 c63371188154eba3b15873e9705cdcf8 ""
   "intro.tex" 1714206746 910 d875918c3d7d613595426bbb5f83f8a7 ""
   "product.tex" 1714209382 7435 19e0c5e9987983191f170c9f6f72a3f2 ""
-  "relazione.aux" 1714209387 11773 57260752d510662c392c8fab094584f4 "pdflatex"
-  "relazione.out" 1714209387 7479 b00adddc410242fb45a0e59072167e8a "pdflatex"
+  "relazione.aux" 1714750010 12052 ebab55d384a4e13f2ffa401a44ece430 "pdflatex"
+  "relazione.out" 1714750010 7479 30777237630c154561d0cc9473fe7936 "pdflatex"
   "relazione.tex" 1713720869 926 da8476a2713263b88dbb7153f9e00c73 ""
-  "relazione.toc" 1714209387 4514 0d26185307cc07db16b2ed574f8f3c6e "pdflatex"
+  "relazione.toc" 1714750010 4514 51270a28633352f50dad2d5dcf6a8717 "pdflatex"
   "template/img/logo.png" 1528651696 67664 84735a93690b9fb71a069fcaad11490a ""
   "template/sos.sty" 1709380900 6840 076d787be07037871b69841984c92f40 ""
-  "valutazione.tex" 1713721550 558 3ccd760b696f1ca01ed5575304001b32 ""
+  "valutazione.tex" 1714750005 620 a6b5fd870c64ba5ae5015e678235509c ""
   (generated)
   "relazione.aux"
   "relazione.log"
